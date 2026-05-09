@@ -12,7 +12,7 @@
 
 ### 📎 Projet - Module Perfex Simple iCal Export (v1.0)
 
-![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/perfex-module-preview.png?raw=true)
+![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/perfex-simple_ical.png?raw=true)
 
 _`Projet finalisé le 09/05/2024`_
 
