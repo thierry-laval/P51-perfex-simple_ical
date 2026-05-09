@@ -31,7 +31,7 @@ Ce module pour Perfex CRM permet d'exporter les événements de votre calendrier
 
 #### 🔧 Installation
 
-1. Téléchargez le dossier dans le répertoire `/modules/simple_ical/` de votre installation.
+1. Téléchargez le dépôt, renommez le dossier en `simple_ical` et placez-le dans le répertoire `/modules/` de votre installation Perfex CRM.
 2. Allez dans **Configuration → Modules** dans votre interface Perfex.
 3. Activez le module **"Simple iCal Export"**.
 4. Un nouveau menu **"iCal Export"** apparaît dans votre barre latérale.
